@@ -1,1 +1,0 @@
-print("hello PG-DIOT")
